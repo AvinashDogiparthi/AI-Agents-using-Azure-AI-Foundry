@@ -34,6 +34,6 @@ This repository is aligned with the course: *AI Agents - Beginner to Pro using A
 2. Follow setup instructions in each module folder.
 
 3. Install required dependencies:
-Copy code
+```text
 pip install -r requirements.txt
-Explore demos for Action & Knowledge tools.
+```
